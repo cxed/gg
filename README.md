@@ -19,18 +19,18 @@ beyond default standard Python 3 (recently converted in 2018).
 You can also make a file sort of like this and assuming the path
 points to the gg executable, you should be able to execute it.
 
------------------------------------
+```
 #!/usr/local/bin/gg
 1 2 3 4
 ''Done!''
 quit
------------------------------------
+```
 
 GeoGad is a full fancy programming language. For a complete detailed
 manual about what exactly the system is and how exactly it works see:
 
 http://xed.ch/project/gg
 
-Any questions, send an email to me, Chris X Edwards, at <gg AT xed.ch>.
+Any questions, send an email to me, Chris X Edwards, at **gg AT xed.ch**.
 
 ![alt text](http://xed.ch/project/gg/Images/gglogo2.png "Chris Edwards - GeoGad")
